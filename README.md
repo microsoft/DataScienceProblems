@@ -16,6 +16,12 @@ $ pip install -e .
 
 ### Reading the problems
 
+Extract the `juice-github-repos.tar.gz` file from the `DataScienceProblems` repository.
+
+```
+$ tar -xvzf juice-github-repos.tar.gz
+```
+
 An example problem from the dataset looks like below. It includes the `prompt` which is the question to be asked to the student, `solution` which is the answer to the question and `test` which is the test case to be run on the student's code.
 
 ```python
