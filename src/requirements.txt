@@ -9,3 +9,12 @@ matplotlib
 pandas
 pytest
 scikit-learn
+nose
+sympy
+nltk
+seaborn
+scikit-image
+SQLAlchemy
+altair
+bs4
+torch

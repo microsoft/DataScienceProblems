@@ -54,7 +54,7 @@ from data_science_problems.utils import write_jsonl
 
 problems = read_problems()
 
-num_samples = 2
+num_samples = 1
 samples = [
     dict(task_id=task_id, completion=generate_code(problems[task_id]["prompt"]))
     for task_id in problems
@@ -66,19 +66,34 @@ write_jsonl("samples.jsonl", samples)
 
 ### Executing the problems
 
-Once you have saved the generated samples in the `samples.jsonl` file, you can use the cli `evaluate_dsp` to execute the generated samples.
+Once you have saved the generated samples in the `samples.jsonl` file, you need to build the provided docker container, which would help you safely run the generated samples inside the container.
 
-`evaluate_dsp` will perform the following things:
+Use the following command to build the docker container.
+
+```
+$ docker build --pull --rm -f "Dockerfile" -t datascienceproblems:latest "."
+```
+
+Once the docker container is built, you can execute the generated samples inside the container. You'll need to map the `/app/juice-github-repos` and `/samples/samples.jsonl` directory to the host directory where the notebooks are stored.
+
+Use the following command to execute the samples inside the container.  
+
+```
+$ docker run -it --rm -v $PWD/juice-github-repos:/app/juice-github-repos -v $PWD/samples.jsonl:/samples/samples.jsonl datascienceproblems /samples/samples.jsonl
+```
+
+
+The `docker run` will perform the following things:
 
 - It will read the samples from the `samples.jsonl` file.
 - It will create new notebooks with the generated code samples. The list of new notebooks is saved in the `generates-notebooks.txt` file.
 - It will execute these new notebooks.
 - It will compute `pass@k` for generated samples. 
 
-> **WARNING: Running the `evaluate_dsp` command with 1 `num_samples` will create with ~1000 new notebooks and save them on your disk. This may take a while.**
+> **WARNING: Running the `docker run` command with `num_samples = 1` will create with ~1000 new notebooks and save them on your disk. This may take a while.**
 
 ```
-$ evaluate_dsp samples.jsonl
+$ docker run -it --rm -v $PWD/juice-github-repos:/app/juice-github-repos -v $PWD/samples.jsonl:/samples/samples.jsonl datascienceproblems /samples/samples.jsonl
 2021-11-02 09:11:11,847 INFO services.py:1164 -- View the Ray dashboard at http://127.0.0.1:8265
 Reading the generated samples.
 100%|███████████████████████████████████████████████| 305/305 [00:03<00:00, 97.34it/s]
@@ -88,13 +103,6 @@ Execute the new notebooks with generated samples.
 100%|███████████████████████████████████████████████| 2192/2192 [05:17<00:40,  9.49it/s]
 Complute pass@k for the executed notebooks.
 100%|███████████████████████████████████████████████| 2192/2192 [00:28<00:00, 76.73it/s]
-{'pass@1': ..., 'pass@100': ...}
+{'pass@1': ..., 'pass@10': ...}
 ```
 
-### Contaniner
-
-To build container run
-docker build --pull --rm -f "Dockerfile" -t datascienceproblems:latest "."
-
-To execute, run:
-docker run -it --rm -v ~/DataScienceProblems/juice-github-repos:/app/juice-github-repos -v ~/DataScienceProblems/samples.jsonl:/samples/samples.jsonl datascienceproblems /samples/samples.jsonl
