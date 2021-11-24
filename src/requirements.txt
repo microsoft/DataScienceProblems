@@ -1,0 +1,11 @@
+numpy
+tqdm
+nbclient
+nbformat
+ray
+fire
+jupyter
+matplotlib
+pandas
+pytest
+scikit-learn

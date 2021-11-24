@@ -1,0 +1,305 @@
+juice-github-repos/mwizasimbeye11.data-science-africa-2018-abuja/data-science-africa-2018-abuja-master/PythonBasicsx.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week2_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week2_Assignment/Problem_3.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week13_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week13_Assignment/Problem_1.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week9_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week5_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week14_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week4_Assignment/Problem_3.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week4_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week3_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/jiuchenzhang.python-practice/python-practice-master/Week6_Assignment/Problem_2.task_id.ipynb
+juice-github-repos/Kaleidophon.-friendly-octo-palm-tree/friendly-octo-palm-tree-master/lab1.task_id.ipynb
+juice-github-repos/HussainAther.MachineLearningCourse/machinelearning-master/feature/Week10-assignment.task_id.ipynb
+juice-github-repos/HussainAther.MachineLearningCourse/machinelearning-master/regression/Week7-assignment.task_id.ipynb
+juice-github-repos/hacker0sean.DATA100/Data_science_2-master/lab9/lab09.task_id.ipynb
+juice-github-repos/hacker0sean.DATA100/Data_science_2-master/lab8/lab08.task_id.ipynb
+juice-github-repos/hacker0sean.DATA100/Data_science_2-master/hw5/hw5.task_id.ipynb
+juice-github-repos/keiran-rowell.Jupyter-Notebooks/Jupyter-Notebooks-master/EXTRA_autograding_example.task_id.ipynb
+juice-github-repos/mwizasimbeye11.datascienceafrica-2018-nyeri-application/datascienceafrica-2018-nyeri-application-master/Python Basics/DSA-Python-Basics.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Assignments/A1/A1_H7031.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Assignments/A1/A1_SettingUp_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Assignments/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Projects/workbooks/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Projects/workbooks/A1/A1_H7031.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/Projects/workbooks/A1/A1_SettingUp_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/workbooks/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/workbooks/A1/A1_SettingUp_solutions.task_id.ipynb
+juice-github-repos/BroderickHigby.COGS108_Repp/data_science_in_practice-master/workbooks/A1/A1_H7031.task_id.ipynb
+juice-github-repos/weiHelloWorld.info490_advanced_data_science/info490_advanced_data_science-master/Week3/assignments/w3p3.task_id.ipynb
+juice-github-repos/espoirMur.data-science-africa-submission/data-science-africa-submission-master/Machine Learning Basics/DSA Preparatory Notebook 1.task_id.ipynb
+juice-github-repos/espoirMur.data-science-africa-submission/data-science-africa-submission-master/Python Basics/DSA-Python-Basics.task_id.ipynb
+juice-github-repos/espoirMur.data-science-africa-submission/data-science-africa-submission-master/Python Basics/DSA-Python-2.task_id.ipynb
+juice-github-repos/brian-cabanas.UCLAEx-Data-Science-S18/UCLAEx-Data-Science-S18-master/01-iris-02-numerical-python/03-the-python-numerical-stack.task_id.ipynb
+juice-github-repos/brian-cabanas.UCLAEx-Data-Science-S18/UCLAEx-Data-Science-S18-master/02-iris-05-sampling/09-lists.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment03/ProjectEuler17.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment03/ProjectEuler52.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment10/MatplotlibExoplanets.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment07/PandasObjects.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment11/ChinookSQL.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment11/InteractEx03.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment08/MissingValues.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment12/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment12/SoccerMatches.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment01/BasicVectorOps.task_id.ipynb
+juice-github-repos/chazalex.DATA301/DATA301-master/assignment06/WienerProcess.task_id.ipynb
+juice-github-repos/StanDimitroff.Data-Science/Data-Science-master/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/StanDimitroff.Data-Science/Data-Science-master/Data Visualization and EDA Lab.task_id.ipynb
+juice-github-repos/StanDimitroff.Data-Science/Data-Science-master/TitanicSurvivals/DS Project Architecture Lab.task_id.ipynb
+juice-github-repos/StanDimitroff.Data-Science/Data-Science-master/ImageProcessing/Working with Images and Text Lab.task_id.ipynb
+juice-github-repos/FollowJack.python-for-machine-learning/python-for-machine-learning-master/Python for Machine Learning/ExerciseSheet4/sheet4_solution.task_id.ipynb
+juice-github-repos/FollowJack.python-for-machine-learning/python-for-machine-learning-master/Python for Machine Learning/Training/sheet4_solution.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/m11_files/m11_files.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/m9_calculus_review/m9_calculus.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/modules/m6-dictionaries/InClass/DictionariesInClassExercises_inclass2.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/m6_collections_dictionaries/m6_dictionaries.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/m12_oop/m12_oop_color.task_id.ipynb
+juice-github-repos/mwatkin8.class_repos/class_repos-master/python_programming/mwatkin8_6018_2017/m3_numerics/m3_numerics_hw.task_id.ipynb
+juice-github-repos/Aliendreamer.Python-Sql-DataScience/Python-Sql-DataScience-master/black folder/Data Visualization and EDA Lab.task_id.ipynb
+juice-github-repos/Aliendreamer.Python-Sql-DataScience/Python-Sql-DataScience-master/black folder/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/Aliendreamer.Python-Sql-DataScience/Python-Sql-DataScience-master/black folder/Data Visualization and EDA Labb.task_id.ipynb
+juice-github-repos/Aliendreamer.Python-Sql-DataScience/Python-Sql-DataScience-master/black folder/Data Visualization and EDA Lab-org.task_id.ipynb
+juice-github-repos/chapmanbe.6018_2017/6018_2017-master/modules/m6-dictionaries/InClass/DictionariesInClassExercises_inclass2.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment13/BootstrapLineFitting.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment07/PandasObjects.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment14/TitanicClassification.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment10/MatplotlibExoplanets.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment03/ProjectEuler52.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment03/ProjectEuler17.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment09/TitanicGroupAgg.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment06/WienerProcess.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment06/PeakFinding.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment01/BasicVectorOps.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment12/SoccerMatches.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment12/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment12/SpeedOfLight.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment08/MissingValues.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment11/ChinookSQL.task_id.ipynb
+juice-github-repos/declanvk.data301-projects/data301-projects-master/assignment11/InteractEx03.task_id.ipynb
+juice-github-repos/SleepSux.2018-uclax-datascience/2018-uclax-datascience-master/01-iris-02-numerical-python/03-the-python-numerical-stack.task_id.ipynb
+juice-github-repos/rekeeley.MLS_HW/MLS_HW-master/homework/Homework7.task_id.ipynb
+juice-github-repos/UvA-FNWI.notebook-exams/notebook-exams-master/Using_notebooks_for_exams/Using_nbgrader/nbgrader-template.task_id.ipynb
+juice-github-repos/xiaoxiaoyu0302.xiao-s-projects/Python4Geoscience-notes-hw-master/hw1_ocng669.task_id.ipynb
+juice-github-repos/xiaoxiaoyu0302.xiao-s-projects/Python4Geoscience-notes-hw-master/hw3_ocng669.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/proj2B/proj2_part3.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/lab03/lab03.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/lab10/lab10.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/hw0/hw0.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/hw2/hw2.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/lab05/lab05.task_id.ipynb
+juice-github-repos/clzls119.berkeley/berkeley-master/ds100/hw1/hw1.task_id.ipynb
+juice-github-repos/jeff3780.DSE200x/edX_DSE200x-master/wk3_Numpy/numpy Exercise Notebook-SOLUTIONS.task_id.ipynb
+juice-github-repos/Venciity.Data-Science/Data-Science-Softuni-Course-master/02. Data-Tidying-and-Cleaning/Lab/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/Venciity.Data-Science/Data-Science-Softuni-Course-master/03. Data-Visualization-Exploratory-Data-Analysis/Lab/Data Visualization and EDA Lab.task_id.ipynb
+juice-github-repos/Venciity.Data-Science/Data-Science-Softuni-Course-master/06. Regression-Models/Lab/Regression Models Lab.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment01/ProjectEuler1.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment01/ProjectEuler6.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment01/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/midterm/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment06/LogNormalSimulation.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment06/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:43:23 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:33:54 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:33:39 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:21:14 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment07+2016-02-09 20:47:35 UTC/HatPotential.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+midterm+2016-02-02 23:32:18 UTC/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment06+2016-02-02 20:12:18 UTC/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment06+2016-02-02 20:12:18 UTC/LogNormalSimulation.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:48:40 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:48:40 UTC/ProjectEuler6.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment05+2016-01-28 21:12:40 UTC/SoccerMatches.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment04+2016-01-26 21:54:06 UTC/WienerProcess.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment03+2016-01-19 21:23:36 UTC/ProjectEuler52.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment06+2016-02-02 21:17:06 UTC/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment06+2016-02-02 21:17:06 UTC/LogNormalSimulation.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment03+2016-01-19 21:15:41 UTC/ProjectEuler52.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+midterm+2016-02-02 23:30:21 UTC/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment04+2016-01-26 23:14:49 UTC/WienerProcess.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/.local/share/jupyter/nbgrader_cache/data301a/chewy06+assignment01+2016-01-12 21:34:55 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment05/SoccerMatches.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment07/HatPotential.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment04/WienerProcess.task_id.ipynb
+juice-github-repos/chewy06.DataScience/DataScience-master/assignment03/ProjectEuler52.task_id.ipynb
+juice-github-repos/Jihunlee326.DLC/DeepLearningCollege-master/01_programming/Assign_solutions.task_id.ipynb
+juice-github-repos/Jihunlee326.DLC/DeepLearningCollege-master/01_programming/Indexing_solutions.task_id.ipynb
+juice-github-repos/RuofanW.1007/DS-GA-1007-Programming-for-DS-master/02_Numpy_I_Ruofan.task_id.ipynb
+juice-github-repos/KostadinovK.Data-Science/Data-Science-master/02-Data-Tidyng-And-Cleaning/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/KostadinovK.Data-Science/Data-Science-master/06-Regression-Models/Regression Models Lab.task_id.ipynb
+juice-github-repos/KostadinovK.Data-Science/Data-Science-master/04-Working-with-Images-And-Text/Working with Images and Text Lab.task_id.ipynb
+juice-github-repos/kabartay.EdX-UCSanDiegoX-DSE200x/EdX-UCSanDiegoX-DS-master/DSE200x/Week-3-Exercises/Solutions/numpy_Exercise_Notebook-SOLUTIONS.task_id.ipynb
+juice-github-repos/allstonfojas.COGS108_REPO/COGS108_Repo-master/Assignments/A1/A1_F4143.task_id.ipynb
+juice-github-repos/allstonfojas.COGS108_REPO/COGS108_Repo-master/Assignments/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/tcloudb.COGS_108/COGS_108-master/Assignments/A1/A1_B9430.task_id.ipynb
+juice-github-repos/vlsalina.COGS108-Repo/COGS108-Repo-master/A5/A5_L7263.task_id.ipynb
+juice-github-repos/vlsalina.COGS108-Repo/COGS108-Repo-master/A1/A1_SettingUp_solutions.task_id.ipynb
+juice-github-repos/levishutts.Projects/Projects-master/Python/IPython Notebook/Project 1/hello.task_id.ipynb
+juice-github-repos/Ventsislav-Yordanov.Machine-Learning-Softuni-Course/Machine-Learning-Softuni-Course-master/05. Support-Vector-Machines/Lab/Trees and SVMs Lab.task_id.ipynb
+juice-github-repos/Ventsislav-Yordanov.Machine-Learning-Softuni-Course/Machine-Learning-Softuni-Course-master/03. Model-Training-and-Improvement/Lab/Model Training and Improvement Lab.task_id.ipynb
+juice-github-repos/osunadavid.COGS108_Repo/COGS108_Repo-master/A5/A5_O5524.task_id.ipynb
+juice-github-repos/arunsug.Assignments5/Assignments5-master/A1/A1_SettingUp_Solutions.task_id.ipynb
+juice-github-repos/GutHub88.COGS108_Repo/COGS108_Repo-master/A1_G0579.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment05+2016-01-28 21:21:16 UTC/SoccerMatches.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment07+2016-02-11 21:19:41 UTC/HatPotential.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment07+2016-02-09 21:17:09 UTC/HatPotential.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment06+2016-02-02 21:33:31 UTC/MatplotlibEx02.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment06+2016-02-02 21:33:31 UTC/MatplotlibEx01.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment06+2016-02-02 21:33:31 UTC/LogNormalSimulation.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/.local/share/jupyter/nbgrader_cache/data301a/nicksinai+assignment06+2016-02-02 21:33:31 UTC/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/assignment06/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/assignment06/MatplotlibEx01.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/assignment06/MatplotlibEx02.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/midterm/CharEntropy.task_id.ipynb
+juice-github-repos/nicksinai.DATA301/DATA301-master/assignment07/HatPotential.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz1/Quiz_norm.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz6/Quiz_Perceptron.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz12/Quiz_backpropagation.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz2/Quiz_Gauss.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz8/Quiz_minimum_distance_as_linear.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz5/Quiz_confusion_matrix.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz11/Quiz_k-means.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz13/Quiz_nn_forward_pass.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz7/Quiz_SVM_example_numerical_sklearn.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz10/Quiz_LDA.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz4/Quiz_reglin-sgd.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz4/Quiz_reglin-sgd_multi.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz9/Quiz_Gini.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/PCA/PCA.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/network/02_network.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/Logistic_regression/Logistic_regression.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/kNN/min_distance.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/kNN/kNN.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/Numpy/numpy_linalg_nbgrader.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/Numpy/basic_numpy_nbgrader.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/katowice/introAI/Bayes/Naive_Bayes_5steps.task_id.ipynb
+juice-github-repos/gertingold.jupyter4edu/jupyter4edu-master/augsburg/exercises/Pi/Pi.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/lab08/lab08.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/hw5/hw5.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/lab12/lab12.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/hw1/hw1.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/hw3/hw3.task_id.ipynb
+juice-github-repos/lamalor.ds100/ds100-master/lab09/lab09.task_id.ipynb
+juice-github-repos/jmuresan.DATA_301_Projects/DATA_301_Projects-master/assignment04/WienerProcess.task_id.ipynb
+juice-github-repos/jmuresan.DATA_301_Projects/DATA_301_Projects-master/assignment06/LogNormalSimulation.task_id.ipynb
+juice-github-repos/jmuresan.DATA_301_Projects/DATA_301_Projects-master/assignment06/BootstrapLineFitting.task_id.ipynb
+juice-github-repos/jmuresan.DATA_301_Projects/DATA_301_Projects-master/midterm/PeakFinding.task_id.ipynb
+juice-github-repos/jmuresan.DATA_301_Projects/DATA_301_Projects-master/midterm/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/JeffreyZLee.COGS108_Repo/COGS108_Repo-master/A1/A1_A12615927.task_id.ipynb
+juice-github-repos/cinematica-robot-master.practica1/practica1-master/Problemas.task_id.ipynb
+juice-github-repos/brianlyu.dataScience108/dataScience108-master/A1/A1_L5359.task_id.ipynb
+juice-github-repos/brianlyu.dataScience108/dataScience108-master/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/germann12346.Assignments/Assignments-master/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/germann12346.Assignments/Assignments-master/A1/A1_P1973.task_id.ipynb
+juice-github-repos/germann12346.Assignments/Assignments-master/A1/A1_SettingUp_solutions.task_id.ipynb
+juice-github-repos/Broch76.CPN321/CPN321-master/C2_handout.task_id.ipynb
+juice-github-repos/mariaNikolova.Data-Science/Data-Science-master/Data Tidying and Cleaning/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/mariaNikolova.Data-Science/Data-Science-master/Working with Images and Text/Working with Images and Text Lab.task_id.ipynb
+juice-github-repos/mariaNikolova.Data-Science/Data-Science-master/Regression Models Lab/Regression Models Lab.task_id.ipynb
+juice-github-repos/mariaNikolova.Data-Science/Data-Science-master/Data Visualization. Exploratory Data Analysis/Data Visualization and EDA Lab.task_id.ipynb
+juice-github-repos/mariaNikolova.Data-Science/Data-Science-master/Data Science Project Architecture/DS Project Architecture Lab.task_id.ipynb
+juice-github-repos/chenjiunhan.UvA_AI_record/UvA_AI_record-master/ml1/11649712_11844523_lab1.task_id.ipynb
+juice-github-repos/karlaeavila.COGS108_RepoA3/COGS108_RepoA3-master/A3/Assignments/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/ardntshop.MyAssignments/MyAssignments-master/A1/A1_R9050.task_id.ipynb
+juice-github-repos/rcw712.rcw712/rcw712-master/m12_oop/m12_oop_color.task_id.ipynb
+juice-github-repos/rcw712.rcw712/rcw712-master/m9_calculus_review/m9_calculus.task_id.ipynb
+juice-github-repos/rcw712.rcw712/rcw712-master/m11_files/m11_files.task_id.ipynb
+juice-github-repos/rcw712.rcw712/rcw712-master/m3_numerics/m3_numerics_hw.task_id.ipynb
+juice-github-repos/rcw712.rcw712/rcw712-master/m4_collections/m4_collections_hw.task_id.ipynb
+juice-github-repos/biom262.biom262-2016/biom262-2016-master/weeks/week04/0_alignment_expression_quantification.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps10/MatplotlibExoplanets.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps3/ProjectEuler17.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps3/ProjectEuler52.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps11+2018-02-27 16:12:29.112101 UTC/SoccerMatches.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps11+2018-02-27 16:12:29.112101 UTC/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps12+2018-03-01 16:18:02.209521 UTC/MLEPoisson.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps12+2018-03-01 16:18:02.209521 UTC/HatPotential.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 16:32:57.380188 UTC/ProjectEuler17.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 16:32:57.380188 UTC/ProjectEuler52.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps6+2018-02-01 16:09:55.510811 UTC/CompleteGraphLaplacian.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps1+2018-01-16 16:32:52.695135 UTC/BasicVectorOps.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps1+2018-01-16 16:32:52.695135 UTC/ProjectEuler1.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps8+2018-02-13 16:12:17.430982 UTC/PandasObjects.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 17:00:04.791058 UTC/ProjectEuler17.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 17:00:04.791058 UTC/ProjectEuler52.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps8+2018-02-13 16:21:19.604942 UTC/PandasObjects.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 09:34:11.542668 UTC/ProjectEuler52.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps3+2018-01-23 09:34:11.542668 UTC/ProjectEuler17.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/.local/share/jupyter/nbgrader_cache/data301/cewalden+ps10+2018-02-22 16:11:45.959229 UTC/MatplotlibExoplanets.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps8/PandasObjects.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps11/SoccerMatches.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps11/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps1/ProjectEuler1.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps1/BasicVectorOps.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps12/HatPotential.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps12/MLEPoisson.task_id.ipynb
+juice-github-repos/cewalden.data301classwork/data301classwork-master/ps6/CompleteGraphLaplacian.task_id.ipynb
+juice-github-repos/ecpierce.biom262-2016/biom262-2016-master/weeks/week04/0_alignment_expression_quantification.task_id.ipynb
+juice-github-repos/kchan23.2018-spr-data-science/2018-spr-data-science-master/01-iris-02-numerical-python/03-the-python-numerical-stack.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment04/CompleteGraphLaplacian.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment04/WienerProcess.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/midterm/PeakFinding.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/midterm/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment03/ProjectEuler52.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment01/BasicVectorOps.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment06/MatplotlibEx02.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment06/MatplotlibEx01.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment06/LogNormalSimulation.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment06/BootstrapLineFitting.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment06/BootstrapCoinToss.task_id.ipynb
+juice-github-repos/dorfman.data301-work/data301-work-master/assignment05/SoccerMatches.task_id.ipynb
+juice-github-repos/saverymax.machine_learning/machine_learning-master/week_7/Week7-assignment.task_id.ipynb
+juice-github-repos/saverymax.machine_learning/machine_learning-master/week_2/max-savery_week2-assignment.task_id.ipynb
+juice-github-repos/swiftwind501.COGS108_Repo/COGS108_Repo-master/A1_A11970626.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/augsburg/exercises/Pi/Pi.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/kNN/kNN.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/kNN/min_distance.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/Bayes/Naive_Bayes_5steps.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/Numpy/basic_numpy_nbgrader.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/Numpy/numpy_linalg_nbgrader.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/Logistic_regression/Logistic_regression.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/PCA/PCA.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI/network/02_network.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz7/Quiz_SVM_example_numerical_sklearn.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz11/Quiz_k-means.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz4/Quiz_reglin-sgd.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz4/Quiz_reglin-sgd_multi.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz12/Quiz_backpropagation.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz9/Quiz_Gini.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz10/Quiz_LDA.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz1/Quiz_norm.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz6/Quiz_Perceptron.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz13/Quiz_nn_forward_pass.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz8/Quiz_minimum_distance_as_linear.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz2/Quiz_Gauss.task_id.ipynb
+juice-github-repos/marcinofulus.jupyter4edu/jupyter4edu-master/katowice/introAI_Quizzes/Quiz5/Quiz_confusion_matrix.task_id.ipynb
+juice-github-repos/Yiming-Gao.UIUC-Spring-2017/UIUC-Spring-2017-master/INFO-490/Week3/Assignments/w3p3.task_id.ipynb
+juice-github-repos/zdhali.ZZD/ZZD-master/COGS 108/A1_SettingUp.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps10/MatplotlibExoplanets.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps3/ProjectEuler52.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps3/ProjectEuler17.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps13/BootstrapLineFitting.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps11/SoccerMatches.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps11/CentralLimitTheorem.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps11/SpeedOfLight.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps6/CompleteGraphLaplacian.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps1/BasicVectorOps.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps12/MLEPoisson.task_id.ipynb
+juice-github-repos/CVaranese.Data301/Data301-master/ps12/HatPotential.task_id.ipynb
+juice-github-repos/ruan-andy.COGS108_Repo/COGS108_Repo-master/A1/A1_A13952215.task_id.ipynb
+juice-github-repos/georgivelikov.SoftUni/SoftUni-master/Data Science/Lecture 4/Data Tidying and Cleaning Lab.task_id.ipynb
+juice-github-repos/georgivelikov.SoftUni/SoftUni-master/Data Science/Lecture 6/Working with Images and Text Lab.task_id.ipynb
+juice-github-repos/georgivelikov.SoftUni/SoftUni-master/Data Science/Lecture 5/Data Visualization and EDA Lab.task_id.ipynb
+juice-github-repos/georgivelikov.SoftUni/SoftUni-master/Data Science/Lecture 8/06. Regression-Models-Lab/Regression Models Lab.task_id.ipynb
+juice-github-repos/mcx2576.python_project/python_project-master/Machine_Learning/11813105_11853018_10325948_Lab#1.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2019/ZomatoRecommendationSystem/Assignment2.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2018/Online Test 1/1. Neural Activation.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2018/Online Test 1/3. Nearest Redi Problem.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2018/Solutions/Mock Test 1/Softmax.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2018/Solutions/Mock Test 1/Convolution Conundrum.task_id.ipynb
+juice-github-repos/adityassrana.BITS-F312---Neural-Networks-and-Fuzzy-Logic/BITS-F312-Neural-Networks-and-Fuzzy-Logic-master/2018/Solutions/Online Test 1/3. Nearest Redi Problem.task_id.ipynb
+juice-github-repos/graskovi.COGS108_Repo/COGS108_Repo-master/A2/A2_R6931.task_id.ipynb
+juice-github-repos/graskovi.COGS108_Repo/COGS108_Repo-master/A1/A1_R6931.task_id.ipynb
+juice-github-repos/graskovi.COGS108_Repo/COGS108_Repo-master/Demo/Demo_solutions.task_id.ipynb
+juice-github-repos/apauliuc.MachineLearning2_Labs/MachineLearning2_Labs-master/lab3/lab3.task_id.ipynb
+juice-github-repos/Khangle92.datascienceUCLA/datascienceUCLA-master/uclax-data-science/01-iris-02-numerical-python/03-the-python-numerical-stack.task_id.ipynb
