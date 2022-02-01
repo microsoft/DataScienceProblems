@@ -1,6 +1,6 @@
 # Data Science Problems
 
-Execution framework as a part of the paper [Training and Evaluating a Jupyter Notebook Data Science Assistant](). Data Science Problems is a collection of various data-science problems in jupyter notebooks designed to test university students' mastery of various Python implementations of Math and Data Science.
+Execution framework as a part of the paper [Training and Evaluating a Jupyter Notebook Data Science Assistant](https://arxiv.org/abs/2201.12901). Data Science Problems is a collection of various data-science problems in jupyter notebooks designed to test university students' mastery of various Python implementations of Math and Data Science.
 
 ## Installation
 
