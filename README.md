@@ -4,7 +4,7 @@ Evaluate a natural language code generation model on real data science pedagogic
 
 ## Installation
 
-Clone this repository to your local machine.
+This project requires Python 3.6+ and Docker to run. Assuming you have these, to get started first download and install the Python package:
 
 ```
 $ git clone git@github.com:microsoft/DataScienceProblems.git
@@ -22,7 +22,7 @@ Extract the `juice-github-repos.tar.gz` file from the `DataScienceProblems` repo
 $ tar -xvzf juice-github-repos.tar.gz
 ```
 
-## Data Schema
+### Data Schema
 
 An example problem from the dataset looks like below. It includes the `prompt` which is the question to be asked to the student, `solution` which is the answer to the question and `test` which is the test case to be run on the student's code.
 
