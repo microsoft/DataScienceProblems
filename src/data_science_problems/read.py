@@ -71,7 +71,7 @@ def build_examples(path, context_len=3):
 
 
 def build_examples_new(path, context_len=3):
-    path = ROOT / Path(path.strip())
+    path = ROOT.parent / Path(path.strip())
     # try:
     nb = nbformat.read(path, as_version=4)
     # except:
