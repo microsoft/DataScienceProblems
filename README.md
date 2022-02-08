@@ -8,7 +8,7 @@ Clone this repository to your local machine.
 
 ```
 $ git clone git@github.com:microsoft/DataScienceProblems.git
-$ cd DataScienceProblems
+$ cd DataScienceProblems/src
 $ pip install -e .
 ```
 
