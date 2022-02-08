@@ -1,13 +1,13 @@
 # Data Science Problems
 
-Execution framework as a part of the paper [Training and Evaluating a Jupyter Notebook Data Science Assistant](https://arxiv.org/abs/2201.12901). Data Science Problems is a collection of various data-science problems in jupyter notebooks designed to test university students' mastery of various Python implementations of Math and Data Science.
+Evaluate a natural language code generation model on real data science pedagogical notebooks! Data Science Problems (DSP) includes well-posed data science problems in Markdown along with unit tests to verify correctness and a Docker environment for reproducible execution. About 1/3 of notebooks in this benchmark also include data dependencies, so this benchmark not only can test a model's ability to chain together complex tasks, but also evaluate the solutions on real data! See our paper [Training and Evaluating a Jupyter Notebook Data Science Assistant](https://arxiv.org/abs/2201.12901) for more details about state of the art results and other properties of the dataset.
 
 ## Installation
 
 Clone this repository to your local machine.
 
 ```
-$ git clone https://shubhamchandel@dev.azure.com/shubhamchandel/jupyter/_git/DataScienceProblems
+$ git clone git@github.com:microsoft/DataScienceProblems.git
 $ cd DataScienceProblems
 $ pip install -e .
 ```
@@ -21,6 +21,8 @@ Extract the `juice-github-repos.tar.gz` file from the `DataScienceProblems` repo
 ```
 $ tar -xvzf juice-github-repos.tar.gz
 ```
+
+## Data Schema
 
 An example problem from the dataset looks like below. It includes the `prompt` which is the question to be asked to the student, `solution` which is the answer to the question and `test` which is the test case to be run on the student's code.
 
@@ -70,7 +72,7 @@ write_jsonl("samples.jsonl", samples)
 ```
 
 
-### Executing the problems
+### Executing the problems and unit tests
 
 Once you have saved the generated samples in the `samples.jsonl` file, you need to build the provided docker container, which would help you safely run the generated samples inside the container.
 
@@ -80,7 +82,7 @@ Use the following command to build the docker container.
 $ docker build --pull --rm -f "Dockerfile" -t datascienceproblems:latest "."
 ```
 
-Once the docker container is built, you can execute the generated samples inside the container. You'll need to map the `/app/juice-github-repos` and `/samples/samples.jsonl` directory to the host directory where the notebooks are stored.
+Once the Docker container is built, you can execute the generated samples inside the container. You'll need to map the `/app/juice-github-repos` and `/samples/samples.jsonl` directory to the host directory where the notebooks are stored.
 
 Use the following command to execute the samples inside the container.  
 
@@ -116,5 +118,49 @@ Complute pass@k for the executed notebooks.
 
 > This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft trademarks or logos is subject to and must follow Microsoft’s Trademark & Brand Guidelines. Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship. Any use of third-party trademarks or logos are subject to those third-party’s policies.
 
+## Dataset Metadata
 
+The following table is necessary for this dataset to be indexed by search
+engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
+<div itemscope itemtype="http://schema.org/Dataset">
+<table>
+  <tr>
+    <th>property</th>
+    <th>value</th>
+  </tr>
+  <tr>
+    <td>name</td>
+    <td><code itemprop="name">Data Science Problems</code></td>
+  </tr>
+  <tr>
+    <td>url</td>
+    <td><code itemprop="url">https://github.com/microsoft/DataScienceProblems</code></td>
+  </tr>
+  <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/microsoft/DataScienceProblems</code></td>
+  </tr>
+  <tr>
+    <td>description</td>
+    <td><code itemprop="description">
+        Evaluate a natural language code generation model on real data science pedagogical notebooks! 
+        Data Science Problems (DSP) includes well-posed data science problems in Markdown along with 
+        unit tests to verify correctness and a Docker environment for reproducible execution. About 
+        1/3 of notebooks in this benchmark also include data dependencies, so this benchmark not only 
+        can test a model's ability to chain together complex tasks, but also evaluate the solutions 
+        on real data! See our paper Training and Evaluating a Jupyter Notebook Data Science Assistant 
+        (https://arxiv.org/abs/2201.12901) for more details about state of the art results and other 
+        properties of the dataset.
+	</code></td>
+  </tr>
+  <tr>
+    <td>citation</td>
+    <td><code itemprop="citation">https://arxiv.org/abs/2201.12901</code></td>
+  </tr>
+  <tr>
+    <td>license</td>
+    <td><code itemprop="license">https://github.com/microsoft/DataScienceProblems/blob/main/LICENSE.txt</code></td>
+  </tr>
+</table>
+</div>
 
