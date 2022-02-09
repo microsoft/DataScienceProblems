@@ -24,7 +24,11 @@ $ tar -xvzf juice-github-repos.tar.gz
 
 ### Data Schema
 
-An example problem from the dataset looks like below. It includes the `prompt` which is the question to be asked to the student, `solution` which is the answer to the question and `test` which is the test case to be run on the student's code.
+Here is an example of a notebook context, prompt cell (1 and the markdown), solution cell (2), and unit tests cell (3).
+
+![example problem](example.png)
+
+The DSP schema corresponding to this example includes the `prompt` which is the question to be asked to the student, `solution` which is the answer to the question and `test` which is the test case to be run on the student's code.
 
 ```python
 {
